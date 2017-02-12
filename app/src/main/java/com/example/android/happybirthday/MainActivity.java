@@ -10,5 +10,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         String s = new String();
+        String s1 = new String();
+        String s2 = new String();
+        String s3 = new String();
     }
 }
