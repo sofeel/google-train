@@ -1,0 +1,19 @@
+git init
+git commit -m "first commit"
+git remote add origin git@github.com:sofeel/google-train.git
+git push -u origin master
+
+
+https://github.com/sofeel/google-train.git
+
+
+git remote rm origin
+git remote add origin git@github.com:sofeel/google-train.git
+
+
+git config --global user.email "zhuyutao@126.com"
+git config --global user.name "sofeel"
+
+
+github token(push):
+029cd6f6ff389b5bb3686abb1445a7a892e53f18
